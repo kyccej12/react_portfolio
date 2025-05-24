@@ -90,12 +90,12 @@ const Skills = () => {
                 <img
                   src={skill.logo}
                   alt="..."
-                  className="w-10 group-hover:scale-125 duration-200"
+                  className="w-20 group-hover:scale-125 duration-200"
                 />
               </div>
               <div>
                 <h6>{skill.name}</h6>
-                <p className="italic">{skill.para}</p>
+                <p className="italic text-sm">{skill.para}</p>
                 <div
                   onClick={() => {
                     setSelectSkill(skill);
