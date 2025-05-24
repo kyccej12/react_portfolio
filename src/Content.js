@@ -1,12 +1,18 @@
 // import images
 import Hero_person from "./assets/images/Hero/person.png";
 
-import figma from "./assets/images/Skills/figma.png";
-import sketch from "./assets/images/Skills/sketch.png";
+import bootstrap from "./assets/images/Skills/bootstrap.png";
+import canva from "./assets/images/Skills/canva.png";
 import ps from "./assets/images/Skills/ps.png";
 import reactjs from "./assets/images/Skills/react.png";
-import nodejs from "./assets/images/Skills/node.png";
-import python from "./assets/images/Skills/python.png";
+import css from "./assets/images/Skills/css.png";
+import git from "./assets/images/Skills/git.png";
+import github from "./assets/images/Skills/github.png";
+import jquery from "./assets/images/Skills/jquery.png";
+import php from "./assets/images/Skills/php.png";
+import sql from "./assets/images/Skills/sql.png";
+import tailwindcss from "./assets/images/Skills/tailwindcss.png";
+import vite from "./assets/images/Skills/vite.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -58,7 +64,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "Web & ERP Developer",
+    title: "Web & ERP System Developer",
     firstName: "JECKY",
     LastName: "TIONGCO",
     btnText: "Hire Me",
@@ -66,7 +72,7 @@ export const content = {
     hero_content: [
       {
         count: "6+",
-        text: "Years of Experience in Web & ERP development",
+        text: "Years of Experience in Web & ERP System development",
       },
       {
         count: "10+",
@@ -78,35 +84,65 @@ export const content = {
     title: "Skills",
     subtitle: "MY TOP SKILLS",
     skills_content: [
-      {
-        name: "Figma",
-        para: "Lorem ipsum text  dummy",
-        logo: figma,
-      },
-      {
-        name: "Node js",
-        para: "Lorem ipsum text  dummy",
-        logo: nodejs,
-      },
-      {
+       {
         name: "Adobe Photoshop",
-        para: "Lorem ipsum text  dummy",
+        para: "Proficient in Adobe Photoshop for image editing, graphics design, and visual asset creation.",
         logo: ps,
       },
       {
+        name: "CSS",
+        para: "Skilled in CSS3 with experience building responsive layouts using Flexbox and Grid, creating reusable styles, and implementing modern UI designs.",
+        logo: css,
+      },
+      {
         name: "React js",
-        para: "Lorem ipsum text  dummy",
+        para: "React.js development with hands-on experience building responsive web apps using React, JSX, and component-based architecture. Familiar with hooks, context API, and RESTful API integration.",
         logo: reactjs,
       },
       {
-        name: "Sketch",
+        name: "Bootstrap",
         para: "Lorem ipsum text  dummy",
-        logo: sketch,
+        logo: bootstrap,
       },
       {
-        name: "Python",
+        name: "Canva",
         para: "Lorem ipsum text  dummy",
-        logo: python,
+        logo: canva,
+      },
+      {
+        name: "Git",
+        para: "Lorem ipsum text  dummy",
+        logo: git,
+      },
+      {
+        name: "Github",
+        para: "Lorem ipsum text  dummy",
+        logo: github,
+      },
+      {
+        name: "JQuery",
+        para: "Lorem ipsum text  dummy",
+        logo: jquery,
+      },
+      {
+        name: "PHP",
+        para: "Lorem ipsum text  dummy",
+        logo: php,
+      },
+      {
+        name: "SQL",
+        para: "Lorem ipsum text  dummy",
+        logo: sql,
+      },
+      {
+        name: "Tailwindcss",
+        para: "Lorem ipsum text  dummy",
+        logo: tailwindcss,
+      },
+      {
+        name: "Vite",
+        para: "Lorem ipsum text  dummy",
+        logo: vite,
       },
     ],
     icon: MdArrowForward,
