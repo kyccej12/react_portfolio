@@ -42,22 +42,17 @@ const Skills = () => {
         onRequestClose={closeModal}
         style={customStyles}
       >
-        <div className="flex items-center gap-2">
+        <div className="flex items-center justify-center fade">
           <img className="h-10" src={selectSkill?.logo} alt="..." />
           <h6>{selectSkill?.name}</h6>
         </div>
         <br />
         <ul className="list-decimal px-4 font-Poppins sm:text-sm text-xs !leading-7">
-          <li>Lorem ipsum dolor sit, amet consectetur adipisicing.</li>
-          <li>Lorem ipsum dolor sit, ame.</li>
-          <li>Lorem ipsum dolor sit, amet consectetur</li>
-          <li>
-            Lorem ipsum dolor sit, amet dolor sit, amet consectetur adipisicing.
-          </li>
-          <li>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ad est
-            beatae quos rem.
-          </li>
+          <li>{selectSkill?.point1}</li>
+          <li>{selectSkill?.point2}</li>
+          <li>{selectSkill?.point3}</li>
+          <li>{selectSkill?.point4}</li>
+          <li>{selectSkill?.point5}</li>
         </ul>
         <br />
         <div className="flex justify-end">
