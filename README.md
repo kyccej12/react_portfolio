@@ -1,7 +1,8 @@
-![MacBook Air - 2 (3)](https://user-images.githubusercontent.com/75136330/203812467-8b00176d-9d31-4c09-86c0-8b82b8c661eb.png)
-![127 0 0 1_5173_ (1)](https://user-images.githubusercontent.com/75136330/203812531-baeb4957-5c7d-4222-a07a-2805b278bdbf.png)
+![127 0 0 1_5173_ (1)](https://github.com/user-attachments/assets/03c9ad94-7061-47b7-b2c1-2cbf42c05ec2)
 
-# React Portfolio 2
+![image](https://github.com/user-attachments/assets/670c384d-812d-45ee-b7cc-42212439fc9d)
+
+# React Portfolio
 ### Vite + React + tailwind
 
 ```bash 
@@ -20,9 +21,9 @@ npm run dev
 + and more....
 
 ## live preview link
-[See Now](https://jecky-portfolio.web.app/)
+[See Now](jecky-portfolio.web.app/)
 
-## Repository link
+## Startup repository link
 [Repository](https://github.com/kyccej12/react_portfolio)
 
 ## packages:
