@@ -1,6 +1,6 @@
 ![MacBook Air - 2 (3)](https://github.com/user-attachments/assets/03c9ad94-7061-47b7-b2c1-2cbf42c05ec2)
-![127 0 0 1_5173_ (1)](https://user-images.githubusercontent.com/75136330/203812531-baeb4957-5c7d-4222-a07a-2805b278bdbf.png)
-(https://github.com/user-attachments/assets/670c384d-812d-45ee-b7cc-42212439fc9d)
+![127 0 0 1_5173_ (1)](https://github.com/user-attachments/assets/03c9ad94-7061-47b7-b2c1-2cbf42c05ec2)
+!(https://github.com/user-attachments/assets/670c384d-812d-45ee-b7cc-42212439fc9d)
 
 # React Portfolio
 ### Vite + React + tailwind
@@ -24,7 +24,7 @@ npm run dev
 [Watch now](https://youtu.be/YpFK4hUZ-NM)
 
 ## live preview link
-[See Now](https://codeaprogram-portfolio.web.app/)
+<!-- [See Now](https://codeaprogram-portfolio.web.app/) -->
 
 ## Startup repository link
 [Repository](https://github.com/kyccej12/react_portfolio)
