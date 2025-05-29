@@ -21,9 +21,9 @@ npm run dev
 + and more....
 
 ## live preview link
-[See Now](jecky-portfolio.web.app/)
+[See Now](https://jecky-portfolio.web.app/)
 
-## Startup repository link
+## Repository link
 [Repository](https://github.com/kyccej12/react_portfolio)
 
 ## packages:
