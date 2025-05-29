@@ -1,6 +1,6 @@
-![MacBook Air - 2 (3)](https://github.com/user-attachments/assets/03c9ad94-7061-47b7-b2c1-2cbf42c05ec2)
 ![127 0 0 1_5173_ (1)](https://github.com/user-attachments/assets/03c9ad94-7061-47b7-b2c1-2cbf42c05ec2)
-!(https://github.com/user-attachments/assets/670c384d-812d-45ee-b7cc-42212439fc9d)
+
+![image](https://github.com/user-attachments/assets/670c384d-812d-45ee-b7cc-42212439fc9d)
 
 # React Portfolio
 ### Vite + React + tailwind
