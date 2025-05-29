@@ -5,10 +5,6 @@
 # React Portfolio
 ### Vite + React + tailwind
 
-```bash 
-npm i
-npm run dev
-```
 ## You Learn:
 + react js hooks
 + folder structure
