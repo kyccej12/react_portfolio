@@ -31,7 +31,8 @@ const App = () => {
       <Hireme />
       <Contact />
       <footer className="p-3 text-center">
-        <h6 className="mb-3">JECKY TIONGCO PORTFOLIO</h6>
+        <p className="mb-3 ">GOT A PROJECT IN MIND?</p>
+        <h3 className="mb-3">LET'S TALK</h3>
         <p>All CopyRights Reserved 2025</p>
       </footer>
     </div>
