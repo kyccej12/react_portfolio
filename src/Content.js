@@ -285,31 +285,31 @@ export const content = {
     subtitle: "FOR YOUR PROJECTS",
     image1: Hireme_person,
     image2: Hireme_person2,
-    para: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document elying on mean",
+    para: "I am a skilled Web and ERP System Developer with a strong background in building scalable web applications and customized ERP solutions. I bring a results-driven mindset, hands-on experience with modern technologies, and a focus on optimizing business workflows through clean, efficient code. I’m ready to contribute to your team with both technical expertise and a deep understanding of business processes.",
     btnText: "Hire Me",
   },
   Contact: {
-    title: "Contect Me",
+    title: "Contact Me",
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "jecky.tiongco@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:jecky.tiongco@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "+63 968 395 3487",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://wa.me/+639683953487",
       },
-      {
-        text: "codeaprogram",
-        icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
-      },
+      // {
+      //   text: "codeaprogram",
+      //   icon: BsInstagram,
+      //   link: "https://www.instagram.com/codeaprogram/",
+      // },
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2022",
+    text: "All CopyRights Reserved 2025",
   },
 };
