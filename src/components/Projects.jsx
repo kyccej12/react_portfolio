@@ -56,9 +56,6 @@ const Projects = () => {
                   >
                     READ MORE
                   </a>
-                  {/* <button className="font-bold text-gray self-end">
-                    READ MORE {selectProjects?.readmore}
-                  </button> */}
                 </div>
               </SwiperSlide>
             ))}
