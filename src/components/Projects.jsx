@@ -7,9 +7,11 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 import { Pagination } from "swiper";
+import { useState } from "react";
 
 const Projects = () => {
   const { Projects } = content;
+
   return (
     <section className="bg-bg_light_primary" id="projects">
       <div className="md:container px-5 pt-14 min-h-screen flex flex-col justify-between">
@@ -46,9 +48,17 @@ const Projects = () => {
                 <img src={content.image} alt="..." />
                 <div className="flex flex-col gap-1 mt-2">
                   <h5 className="font-bold font-Poppins">{content.title}</h5>
-                  <button className="font-bold text-gray self-end">
+                  <a
+                    href={content?.readmore}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-bold text-gray self-end underline"
+                  >
                     READ MORE
-                  </button>
+                  </a>
+                  {/* <button className="font-bold text-gray self-end">
+                    READ MORE {selectProjects?.readmore}
+                  </button> */}
                 </div>
               </SwiperSlide>
             ))}
