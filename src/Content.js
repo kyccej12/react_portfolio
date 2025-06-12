@@ -66,7 +66,7 @@ export const content = {
   hero: {
     title: "Web & ERP System Developer",
     firstName: "JECKY",
-    LastName: "TIONGCO",
+    LastName: "T.",
     btnText: "Hire Me",
     image: Hero_person,
     hero_content: [
