@@ -29,7 +29,7 @@ const App = () => {
       <Projects />
       {/* <Testimonials /> */}
       <Hireme />
-      {/* <Contact /> */}
+      <Contact />
       <footer className="bg-primaryLinear text-white p-6 text-center">
           <p className="mb-3 text-xl">GOT A PROJECT IN MIND?</p>
           <h3 className="mb-3 text-xl font-semibold">LET'S CONNECT</h3>
