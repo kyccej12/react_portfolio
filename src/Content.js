@@ -71,7 +71,7 @@ export const content = {
     image: Hero_person,
     hero_content: [
       {
-        count: "6+",
+        count: "7+",
         text: "Years of Experience in Web & ERP System development",
       },
       {
