@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "jecky-portfolio"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }
