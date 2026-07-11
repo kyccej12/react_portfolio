@@ -1,6 +1,6 @@
-![127 0 0 1_5173_ (1)](https://github.com/user-attachments/assets/03c9ad94-7061-47b7-b2c1-2cbf42c05ec2)
+<img width="2606" height="1469" alt="readme1" src="https://github.com/user-attachments/assets/edd9de1d-29f4-4d5b-9af2-29dc78e1a50f" />
 
-![image](https://github.com/user-attachments/assets/670c384d-812d-45ee-b7cc-42212439fc9d)
+<img width="1301" height="941" alt="readme2" src="https://github.com/user-attachments/assets/41734e9b-330b-4ca3-ba7d-d07fca253a3e" />
 
 # React Portfolio
 ### Vite + React + tailwind
