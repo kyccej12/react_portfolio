@@ -34,7 +34,7 @@ import Hireme_person2 from "./assets/images/Hireme/person2.png";
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
-// import { BsInstagram } from "react-icons/bs";
+import { BsLinkedin } from "react-icons/bs";
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
@@ -302,11 +302,11 @@ export const content = {
         icon: MdCall,
         link: "https://wa.me/+639683953487",
       },
-      // {
-      //   text: "codeaprogram",
-      //   icon: BsInstagram,
-      //   link: "https://www.instagram.com/codeaprogram/",
-      // },
+      {
+        text: "https://www.linkedin.com/in/jecky-tiongco/",
+        icon: BsLinkedin,
+        link: "https://www.linkedin.com/in/jecky-tiongco/",
+      },
     ],
   },
   Footer: {
